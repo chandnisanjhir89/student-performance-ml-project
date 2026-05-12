@@ -16,3 +16,9 @@ This project analyzes student performance using Machine Learning and Streamlit.
 - Matplotlib
 - Scikit-learn
 - Streamlit
+
+
+## Live Demo
+
+Streamlit App:
+https://student-performance-ml-project-wxvf3hmkxzynqczwrkm2o4.streamlit.app/
