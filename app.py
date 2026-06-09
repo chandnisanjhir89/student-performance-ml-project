@@ -3,9 +3,7 @@ import pandas as pd
 
 # Page Configuration
 st.set_page_config(page_title="Student Data Explorer", layout="wide")
-# Load Model
-import os
-model = joblib.load(os.path.join(os.path.dirname(__file__), "diabetes_model.pkl"))
+
 # Title and Description
 st.title("🎓 Student Performance Dashboard")
 st.write("This application allows you to explore student data and calculate average performance scores.")
